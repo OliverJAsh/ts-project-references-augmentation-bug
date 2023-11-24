@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "rootDir": "../",
+        "outDir": "../target"
+    },
+    "references": [
+        { "path": "../app/tsconfig.json" },
+    ]
+}
